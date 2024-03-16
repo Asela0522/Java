@@ -7,6 +7,7 @@ public class Hello{
     System.out.println("CYBER SECURITY IS MY FUTURE JOB");
     System.out.println("Asela Rohana");
     System.out.print("Java is a programming Language");
+    System.out.println("Today is a good day for learning Java"); 
 
   }
 }
