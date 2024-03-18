@@ -11,7 +11,7 @@ public class Variable {
         y=20;
         int z = x + y;
         System.out.println("The sum of x and y is " + z);
-
+    
         //stiring variable declaration
 
         String firstname = "Asela";
@@ -32,6 +32,9 @@ public class Variable {
         // char variable declaration
         char myGrade = 'B';
         System.out.println("My grade is " + myGrade);
+
+
+        
     }
     
 }
